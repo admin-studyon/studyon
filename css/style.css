@@ -37,7 +37,7 @@ img {
   color: #0651a1;
 }
 .pink {
-  color: #ff2a75;
+  color: #37a7ff;
 }
 .blue {
   color: #37a7ff;
@@ -119,12 +119,12 @@ h4.sub-heading {
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
-  color: #4e4c58;
+  color: #0651a1;
 }
 h1.heading {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
-  color: #4e4c58;
+  color: #0651a1;
   font-size: 3em;
   position: relative;
   padding-bottom: 10px;
@@ -145,7 +145,7 @@ h1.heading.purple:after {
   background-color: #0651a1;
 }
 h1.heading.pink:after {
-  background-color: #ff2a75;
+  background-color: #0651a1;
 }
 
 
@@ -174,11 +174,11 @@ h1.heading.pink:after {
   max-height: 120px;
 }
 .client-box h3.title {
-  color: #4e4c58;
+  color: #0651a1;
   margin-bottom: 2em;
 }
 .client-box p.tag {
-  color: #7447ae;
+  color: #0651a1;
   font-family: 'Montserrat', sans-serif;
   margin-bottom: 1em;
 }
