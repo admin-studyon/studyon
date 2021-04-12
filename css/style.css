@@ -196,7 +196,7 @@ h1.heading.pink:after {
   box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
   z-index: 2; */
 }
-.swiper-button-next, .swiper-button-prev {
+/*.swiper-button-next, .swiper-button-prev {
   width: 80px;
   height: 80px;
   background-size: 80px 80px;
