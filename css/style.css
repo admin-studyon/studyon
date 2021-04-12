@@ -11,7 +11,7 @@
   letter-spacing: 0.03em;
 }
 a {
-  color: #7447ae;
+  color: #0651a1;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
@@ -34,7 +34,7 @@ img {
   max-width: 100%;
 }
 .purple {
-  color: #7447ae;
+  color: #0651a1;
 }
 .pink {
   color: #ff2a75;
@@ -142,7 +142,7 @@ h1.heading:after {
   width: 100px;
 }
 h1.heading.purple:after {
-  background-color: #7447ae;
+  background-color: #0651a1;
 }
 h1.heading.pink:after {
   background-color: #ff2a75;
