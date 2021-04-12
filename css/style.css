@@ -189,14 +189,14 @@ h1.heading.pink:after {
   font-style: italic;
   opacity: 0.5;
 }
-/*.client-box.swiper-slide-next {
-  -ms-transform: scale(1.15); /* IE 9 */
-  /*-webkit-transform: scale(1.15); /* Safari */
-/*  transform: scale(1.15);
+.client-box.swiper-slide-next {
+  -ms-transform: scale(1.15);  IE 9 
+  -webkit-transform: scale(1.15);  Safari 
+  transform: scale(1.15);
   box-shadow: 0 0 40px rgba(0, 0, 0, 0.1);
-  z-index: 2; */
+  z-index: 2;
 }
-/*.swiper-button-next, .swiper-button-prev {
+.swiper-button-next, .swiper-button-prev {
   width: 80px;
   height: 80px;
   background-size: 80px 80px;
