@@ -270,11 +270,11 @@ h1.heading.pink:after {
 .stat-box h1 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
-  font-size: 5.6em;
+  font-size:3.5em;
 }
 .stat-box h3 {
   font-family: 'Montserrat', sans-serif;
-  font-weight: 600;
+  font-weight: 400;
   color: #4e4c58;
   font-size: 2em;
 }
