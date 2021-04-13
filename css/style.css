@@ -263,9 +263,9 @@ h1.heading.pink:after {
   margin: 4em 0;
 }
 .stat-box {
-  padding: 4em;
-  margin-top: 4em;
-  margin-bottom: 4em;
+  padding: 2em;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 .stat-box h1 {
   font-family: 'Montserrat', sans-serif;
